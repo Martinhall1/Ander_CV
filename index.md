@@ -7,7 +7,6 @@
       <p><b>ShanghaiTech University</b></p>
       <p><b>Email: xieyy@shanghaitech.edu.cn</b></p>
       <p><b>Tel: 150 9876 7605</b></p>
-      <p><a href="/index-en.html">English Version</a></p>
     </td>
     <td width="25%">
       <img src="/Ander.jpg" width="100%">
