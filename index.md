@@ -3,10 +3,10 @@
   <tr>
     <td width="75%">
       <h1>Ander</h1>
-      <p><b>硕士研究生</b></p>
-      <p><b>××大学××学院</b></p>
-      <p><b>邮箱：1234567789@qq.com</b></p>
-      <p><b>地址：××市××区××路××号××大学，××楼，邮编×××</b></p>
+      <p><b>Postgraduate</b></p>
+      <p><b>ShanghaiTech University</b></p>
+      <p><b>Email: xieyy@shanghaitech.edu.cn</b></p>
+      <p><b>Tel: 150 9876 7605</b></p>
       <p><a href="/index-en.html">English Version</a></p>
     </td>
     <td width="25%">
@@ -18,18 +18,15 @@
 
 ---
 
-张三，男，个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介
+### Self sataus
 
 ---
 
-### 最新消息
-1. 消息1×××
-
-### 研究方向
+### Major Project
 - 文本挖掘
 - 知识图谱
 
-### 荣誉奖励
+### Awards
 - 奖学金
 - 荣誉称号
 - 比赛获奖
